@@ -121,7 +121,7 @@ Remember to replace placeholder values (like user IDs, amounts, etc.) with actua
 - **Body:**
    ```json
    {
-      "username": "Johnny",
+      "username": "alok",
       "password": "alok@1234"
    }
    ```
