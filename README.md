@@ -34,8 +34,8 @@ This is a backend application built with Django rest framework and SQLite for ma
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/viralbiyawala/expenses_sharing_backend.git
-   cd expenses_sharing_backend
+  https://github.com/Niteshkushwaha89473/Daily-Expenses-Sharing-Application.git
+   cd expenses_sharing
    ```
 
 2. **Create and Activate a Virtual Environment**
